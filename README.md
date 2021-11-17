@@ -55,6 +55,8 @@ In the second section, you must need to enter the head of the particular product
 To run the CYK algorithm, you just need to press the button "Start CYK decision algorithm" once done, on the CYK resume tab you will see the results of the execution.
 
 8. To start with a new Grammar:
+
+
 ![image](https://user-images.githubusercontent.com/81060348/142114290-91c770dc-6ca6-476c-a630-783800cf91ce.png)
 
 Once you have created your grammar and added its production rules, you can choose if you want to add a new grammar, once you have run the algorithm over the data you entered the form is restablished again, so you can enter new information.
