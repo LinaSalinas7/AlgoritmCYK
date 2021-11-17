@@ -7,7 +7,7 @@ This application allows you to create a grammar that it's in CNF (Chomsky Normal
 
 Instructions
 
-1.Clone this repository into your eclipse work-space.
+1.Clone this repository into your eclipse work-space.</b>
 2.Import this repository into your eclipse IDE.
 3.Run program from main
 4.Once it is open, the GUI will be shown with the following elements: 
